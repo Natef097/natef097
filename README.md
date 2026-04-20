@@ -1,6 +1,6 @@
 ## Cybersecurity analyst focused on IAM, SOC operations, and automation.
 Hands‑on with Azure AD, SIEM tooling, Tenable, PowerShell, and Bash.
-I build practical security solutions — from detection logic to remediation workflows — and I’m currently leveling up through Security+ and SC‑300.
+I build practical security solutions from detection logic to remediation workflows and I’m currently leveling up through Security+ and SC‑300.
 
 <!--
 **Natef097/natef097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
