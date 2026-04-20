@@ -1,4 +1,6 @@
-## I’m a cybersecurity professional with experience across vulnerability management, SOC analysis, incident response, and automation. I’ve built hands-on skills in networking, technical support, and scripting with PowerShell and Bash, and I’ve deployed Tenable solutions to strengthen risk remediation. My work spans securing systems, analyzing threats with SIEM tools, and aligning remediation with NIST frameworks. I’m driven by curiosity and persistence, focused on practical problem-solving, measurable outcomes, and continued growth through certifications like Security+ and SC-300
+## Cybersecurity analyst focused on IAM, SOC operations, and automation.
+Hands‑on with Azure AD, SIEM tooling, Tenable, PowerShell, and Bash.
+I build practical security solutions — from detection logic to remediation workflows — and I’m currently leveling up through Security+ and SC‑300.
 
 <!--
 **Natef097/natef097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
